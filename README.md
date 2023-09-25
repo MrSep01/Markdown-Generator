@@ -4,6 +4,10 @@
 
 This Node.js CLI application is a Markdown Generator designed to create `README.md` files for your projects. It uses the `inquirer` package to prompt users for input, then automatically generates a `README.md` file based on the responses.
 
+## Demo 
+
+You can watch the demo [HERE](./Assets/markdown_Generator%20-720p-2.mov)
+
 ## 📌 Table of Contents
 
 - [🔧 Installation](#🔧-installation)
